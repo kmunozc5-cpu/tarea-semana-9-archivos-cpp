@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TareaSemana9\\x64\\Debug\\TareaSemana9.obj",
+            "outputs": [
+                "TareaSemana9\\x64\\Debug\\TareaSemana9.cpp.obj.dt.module.json",
+                "TareaSemana9\\x64\\Debug\\TareaSemana9.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
