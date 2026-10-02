@@ -1,0 +1,13 @@
+========================================
+        REPORTE DE INVENTARIO           
+========================================
+Registros validos procesados   : 5
+Registros invalidos descartados: 3
+Valor total del inventario     : Q7179.00
+----------------------------------------
+Resultado(s) de busqueda:
+Codigo [P001] -> Teclado USB | Precio: Q125.500000 | Existencia: 8
+Codigo [ABC] -> No existe en el inventario valido.
+Codigo [abc] -> No existe en el inventario valido.
+Codigo [P999] -> No existe en el inventario valido.
+========================================
